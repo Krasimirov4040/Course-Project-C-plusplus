@@ -1,0 +1,149 @@
+4
+Sweet Delights
+Sweet
+Recipes for sweet treats
+4
+5
+Chocolate Cake
+4
+Flour
+400
+g
+Cocoa
+140
+g
+Eggs
+5
+eggs
+Milk
+200
+ml
+3
+45
+Mix ingredients and bake for 30 min
+Banana Bread
+1
+Sugar 
+200
+g
+2
+25
+Mix ingredients and bake for 30 min
+French Toast
+1
+Sugar 
+200
+g
+1
+15
+Mix ingredients and bake for 30 min
+Birthday Cake
+2
+Chocolate 
+3
+bars
+Cake pan 
+2
+pans
+4
+45
+Melt the chocolate and cover both of the pans
+Cookies
+2
+flour
+150
+gr
+sugar
+4
+tbs
+3
+40
+mix the flour and the sugar and bake
+Savory
+Savory
+Savory foods
+5
+3
+MeatBalls
+3
+Minced meat
+300
+g
+Onion
+2
+heads
+Spices your choice
+3
+types
+3
+20
+Cut the onion into small cubes and mix it with the meat and the spices.Then bake at 160C for 15minutes.
+Musaka
+5
+Potatos
+5
+potatos
+Minced Meat
+400
+g
+Onion
+200
+g
+Eggs
+5
+eggs
+Spices
+5
+spices
+3
+60
+Chop the potatos. Cook the meat in a pan.Put everything together in a tray.Put in the oven for 45min at 180C. Then add filling on top and cook for 10min more.
+Tarator
+2
+Yoghurt
+1
+cup
+Cucumber
+1
+cucumber
+1
+10
+Chop the cucumber nicely.Mix the yoghurt with water and salt.Mix the yoghurt with the cucumber and you are ready.Enjoy!
+Smoothies
+Smoothies
+Food in the form of a smoothie/shake
+5
+1
+Banana Peanut Butter Smoothie
+3
+Milk
+250
+ml
+Peanut Butter
+2
+tbs
+Banana
+1
+banana
+1
+5
+Blend all of the products in the blender for 30seconds to a minute and you'r ready.Enjoy!
+Savory
+Baked Goods
+Bread cakes and all things made with flour in the oven
+3
+1
+Classical Bread
+3
+Flour
+300
+g
+Water
+1
+glass
+Salt
+2
+g
+2
+45
+Mix all of the products in a big bowl.Then wait for 30minutes for the dough to rise then put it in the oven for 40minutes at 180C.
